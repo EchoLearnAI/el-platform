@@ -1,0 +1,3 @@
+subscription_id              = "<el-platform-management-subscription-id>"
+location                     = "eastus2"
+log_analytics_retention_days = 90
