@@ -1,4 +1,0 @@
-tenant_id                    = "<your-tenant-id>"
-management_subscription_id   = "<el-platform-management-subscription-id>"
-connectivity_subscription_id = "<el-platform-connectivity-subscription-id>"
-location                     = "eastus2"
